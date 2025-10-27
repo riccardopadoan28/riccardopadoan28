@@ -31,4 +31,4 @@ I am passionate about  sustainable design and construction data management. I op
 
 ### 💵 Support my ideas
 
-💳  Buy me a coffe: [[https://buymeacoffee.com/riccardopadoan28](https://buymeacoffee.com/riccardopadoan28
+💳  Buy me a coffe: [https://buymeacoffee.com/riccardopadoan28](https://buymeacoffee.com/riccardopadoan28)
