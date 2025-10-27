@@ -23,3 +23,8 @@ IFC for 4D and 5D: Workflows using IfcOpenShell for QTO and BoQ
 🌐  LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/riccardopadoan00)
 
 ✉️  Email: [your.email@example.com](mailto:riccardo.padoan00@gmail.com)
+
+---
+
+### 💵 Support me
+buy_me_a_coffee: riccardopadoan28
