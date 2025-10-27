@@ -23,12 +23,12 @@ I am passionate about  sustainable design and construction data management. I op
 
 ### 📄 Contact
 
-🌐  LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/riccardopadoan00)
+🌐  LinkedIn: [www.linkedin.com/in/riccardopadoan00](www.linkedin.com/in/riccardopadoan00)
 
-✉️  Email: [your.email@example.com](mailto:riccardo.padoan00@gmail.com)
+✉️  Email: [riccardo.padoan00@gmail.com](mailto:riccardo.padoan00@gmail.com)
 
 ---
 
 ### 💵 Support my ideas
 
-💳  Buy me a coffe: [https://buymeacoffee.com/riccardopadoan28](https://buymeacoffee.com/riccardopadoan28)
+💳  Buy me a coffe: [[https://buymeacoffee.com/riccardopadoan28](https://buymeacoffee.com/riccardopadoan28
