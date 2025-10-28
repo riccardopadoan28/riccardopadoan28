@@ -17,7 +17,7 @@ I am passionate about  sustainable design and construction data management. I op
 
 ### 📁 Projects
 
-[BIM45D](https://github.com/riccardopadoan28/IFC_Thesis_BIM45D.git): Open BIM platform to support and optimize workflows. Model validation (IDS, BCF); model properties and quantities; 3D viewer; 4D scheduling and 5D cost estimation.
+[ÅBIM45](https://github.com/riccardopadoan28/IFC_Thesis_BIM45D.git): Open BIM platform to support and optimize workflows. Model validation (IDS, BCF); model properties and quantities; 3D viewer; 4D scheduling and 5D cost estimation.
 
 ---
 
