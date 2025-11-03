@@ -11,7 +11,8 @@ I am passionate about  sustainable design and construction data management. I op
 - nZEB and energy efficiency: healthy and passive architectural design with Revit and energy analysis (Daylight, Availability, Radiation, ecc) with Climate Studio through Rhino8
 - BIM & VDC: Automation and visual scripting (Dynamo, Python) for Revit workflows and model coordination with Navisworks.
 - IFC & Open BIM Interoperability:  IFC, IDS, BCF & bSDD
-- IFC for 4D and 5D: Workflows using IfcOpenShell for QTO and BoQ
+- IFC for 4D and 5D: Workflows using IfcOpenShell for scheduling, QTO and BoQ
+
   
 ---
 
