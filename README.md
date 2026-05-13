@@ -23,6 +23,8 @@ I am passionate about  sustainable design and construction data management. I op
 
 [PACxSkat](https://github.com/riccardopadoan28/PACxSkat): Application to manage and plan a Capital Accumulation Plan according to SKAT (Danish tax) and ETFs.
 
+---
+
 ### 📄 Contact
 
 🌐  LinkedIn: [www.linkedin.com/in/riccardopadoan00](www.linkedin.com/in/riccardopadoan00)
